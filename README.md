@@ -10,4 +10,4 @@ Na pasta do repositório estão os seguintes arquivos:
 - **SQL - Database**- Nessa pasta encontra-se o arquivo em formato **SQL** que utilizamos para subir nosso arquivo no **MYSQL** que se encontra no nosso **Docker**. 
 - **STREAMLIT**- Nessa pasta encontra-se os nossos arquivos que utilizaremos para construir o nosso protótipo no **Streamlit**. 
 
-Aula 1, na qual pode ser acessada clicando[aqui](https://www.youtube.com/watch?v=XANG7SKdVu0&t=4s), foi criado o nosso ambiente docker (mysql), e subimos os nossos dados em formato SQL. 
+Aula 1, na qual pode ser acessada clicando [aqui](https://www.youtube.com/watch?v=XANG7SKdVu0&t=4s), foi criado o nosso ambiente docker (mysql), e subimos os nossos dados em formato SQL. 
