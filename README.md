@@ -30,4 +30,4 @@ Na aula 2.4 que pode ser acessada clicando [aqui](https://www.youtube.com/watch?
 
 
 ## Aula 3.1 - MACHINE LEARNING NA PRÁTRICA
-Na aula 3.1 que pode ser acessada cliando [aqui](https://www.youtube.com/watch?v=5J3BVf-QSqg).....continua
+Na aula 3.1 que pode ser acessada cliando [aqui](https://www.youtube.com/watch?v=5J3BVf-QSqg).....continua..
